@@ -1,4 +1,3 @@
-#import pandas
 import cv2
 import datetime
 
